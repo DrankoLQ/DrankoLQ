@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Backend Engineer based in Cordoba, Spain, working in [NextChange](https://github.com/NextChance). 
+I'm a Senior Backend Engineer based in Cordoba, Spain, working in [NextChance](https://github.com/NextChance). 
 
 In my day-to-day you'll find my working mostly with Typescript and Node.js, communicating using gifs and memes and contributing to some open-source projects like [Alastria](https://github.com/alastria)
 
