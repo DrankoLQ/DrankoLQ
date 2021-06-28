@@ -2,6 +2,6 @@
 
 I'm a Senior Backend Engineer based in Cordoba, Spain, working in [NextChance](https://github.com/NextChance). 
 
-In my day-to-day you'll find my working mostly with Typescript and Node.js, communicating using gifs and memes and contributing to some open-source projects like [Alastria](https://github.com/alastria)
+In my day-to-day you'll find me working mostly with Typescript, Node.js, Express.js, MySQL and MongoDB, communicating with my folks using gifs and memes.
 
 You may find me at [Twitter](https://twitter.com/DaniLuque20) or [Linkedin](https://www.linkedin.com/in/danielluquequintana/)
